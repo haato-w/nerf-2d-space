@@ -14,7 +14,7 @@ The video above shows the output images during training **with positional encodi
 <img src="result/example/processed_gt_image.png" alt="gt_image" width="512"/>
 
 ### Without Positional Encoding (10,000 iterations)
-<img src="resources/final_rendered_output_image_512x512_10000iter_non_pos_enc (1).png" alt="gt_image" width="512"/>
+<img src="resources/final_rendered_output_image_512x512_10000iter_non_pos_enc.png" alt="gt_image" width="512"/>
 
 ### With Positional Encoding (3,000 iterations)
 <img src="result/example/final_rendered_output_image_3000.png" alt="gt_image" width="512"/>
